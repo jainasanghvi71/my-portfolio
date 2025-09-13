@@ -142,7 +142,7 @@ export const projectDetails = [
     description: `This is sample project description random things are here in description This is sample
 project lorem ipsum generator for dummy content`,
     techstack:
-      "Azure, Wordpress, React JS, custom plugin, SASS, HTML/CSS, JavaScript, core PHP, MYSQL, REST API",
+      "Azure, Wordpress, Git, Github, React JS, custom plugin, SASS, HTML/CSS, JavaScript, core PHP, MYSQL, REST API",
     previewLink: "https://google.com",
     githubLink: "https://github.com",
   },
@@ -152,7 +152,7 @@ project lorem ipsum generator for dummy content`,
     description: `This is sample project description random things are here in description This is sample
 project lorem ipsum generator for dummy content`,
     techstack:
-      "Azure, Wordpress, WooCommerce, React JS, SASS, HTML/CSS, JavaScript, core PHP, MYSQL ",
+      "Azure, Wordpress, Git, Github, WooCommerce, React JS, SASS, HTML/CSS, JavaScript, core PHP, MYSQL ",
     previewLink: "https://google.com",
     githubLink: "https://github.com",
   },
