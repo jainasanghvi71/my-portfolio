@@ -1,9 +1,9 @@
 // Enter all your detials in this file
 // Logo images
-import logogradient from "./assets/logo.svg";
-import logo from "./assets/logo2.svg";
+import logogradient from "./assets/js.svg";
+import logo from "./assets/js.svg";
 // Profile Image
-import profile from "./assets/profile.jpg";
+import profile from "./assets/profile.png";
 // Tech stack images
 import html from "./assets/techstack/html.png";
 import css from "./assets/techstack/css.png";
@@ -35,15 +35,21 @@ export const logos = {
 
 // Enter your Personal Details here
 export const personalDetails = {
-  name: "Pavan MG",
+  name: "Jaina Sanghvi",
   tagline: "I build things for web",
   img: profile,
-  about: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
+  about: `A self-motivated, results-driven, and customer-focused Senior Software Engineer with over 10 years of experience in the 
+IT industry. Adept at full-stack development with deep expertise in system design, integration, and solving complex 
+business problems. Skilled in converting requirements into scalable technical solutions, with strong hands-on experience 
+in database architecture, enterprise systems, and cloud-based platforms. Known for clear communication, collaborative 
+leadership, and delivering high-impact solutions. Passionately interested in research and development, with a growing 
+focus on artificial intelligence and emerging technologies. Keen to contribute in roles that blend innovation, technical 
+depth, and real-world impact`,
 };
 
 // Enter your Social Media URLs here
 export const socialMediaUrl = {
-  linkdein: "https://www.linkedin.com/",
+  linkdein: "https://www.linkedin.com/in/jaina-sanghvi/",
   github: "https://www.github.com/",
   twitter: "https://twitter.com/",
   instagram: "https://www.instagram.com/",
@@ -52,43 +58,36 @@ export const socialMediaUrl = {
 // Enter your Work Experience here
 export const workDetails = [
   {
-    Position: "Frontend Web Developer",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
+    Position: "React Developer",
+    Company: `TCS`,
+    Location: "Gandhinagar",
     Type: "Full Time",
-    Duration: "Sep 2021 - Dec 2021",
+    Duration: "May 2022 - Present",
   },
   {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
+    Position: "Senior Software Engineer",
+    Company: `Xtreme Technology`,
+    Location: "Rajkot",
+    Type: "Full Time",
+    Duration: "May 2016 - Feb 2022",
   },
   {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
+    Position: "Software Engineer",
+    Company: `NxSol Private Limited`,
+    Location: "Rajkot",
+    Type: "Full Time",
+    Duration: "Nov 2013 - Apr 2015",
   },
 ];
 
 // Enter your Education Details here
 export const eduDetails = [
   {
-    Position: "Frontend Development",
-    Company: "Udemy, YouTube, Google, Medium",
-    Location: "Online",
+    Position: "Bachelor in Computer Engineering",
+    Company: `Darshan University`,
+    Location: "Rajkot",
     Type: "Full Time",
-    Duration: "Jan 2022 - Present",
-  },
-  {
-    Position: "Bachelor in Electronics & Communication",
-    Company: `Your College Name here`,
-    Location: "Bengaluru",
-    Type: "Full Time",
-    Duration: "Aug 2020 - Present",
+    Duration: "May 2010 - Apr 2013",
   },
 ];
 
@@ -113,47 +112,50 @@ export const techStackDetails = {
 // Enter your Project Details here
 export const projectDetails = [
   {
-    title: "Project title 1",
+    title: "Career Portal",
     image: projectImage1,
     description: `This is sample project description random things are here in description This is sample
 project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
+    techstack:
+      "Azure, Wordpress, React JS, custom plugin, SASS, HTML/CSS, JavaScript, core PHP, MYSQL, REST API",
     previewLink: "https://google.com",
     githubLink: "https://github.com",
   },
   {
-    title: "Project title 2",
+    title: "Publication Portal",
     image: projectImage2,
     description: `This is sample project description random things are here in description This is sample
 project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
+    techstack:
+      "Azure, Wordpress, WooCommerce, React JS, SASS, HTML/CSS, JavaScript, core PHP, MYSQL ",
     previewLink: "https://google.com",
     githubLink: "https://github.com",
   },
   {
-    title: "Project title 3",
+    title: "Inventory Management System",
     image: projectImage3,
     description: `This is sample project description random things are here in description This is sample
 project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
+    techstack: "HTML/CSS, JavaScript, core PHP, MySQL",
     previewLink: "https://google.com",
     githubLink: "https://github.com",
   },
   {
-    title: "Project title 4",
+    title: "OTP Verification Wordpress Plugin",
     image: projectImage4,
     description: `This is sample project description random things are here in description This is sample
 project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
+    techstack:
+      "Wordpress, Custom Plugin, HTML/CSS, JavaScript, core PHP, MySQL",
     previewLink: "https://google.com",
     githubLink: "https://github.com",
   },
   {
-    title: "Project title 5",
+    title: "Youtube Clone",
     image: projectImage5,
     description: `This is sample project description random things are here in description This is sample
 project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
+    techstack: "Youtube REST API, React JS, HTML/CSS",
     previewLink: "https://google.com",
     githubLink: "https://github.com",
   },
