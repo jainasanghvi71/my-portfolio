@@ -45,10 +45,18 @@ in database architecture, enterprise systems, and cloud-based platforms. Known f
 leadership, and delivering high-impact solutions. Passionately interested in research and development, with a growing 
 focus on artificial intelligence and emerging technologies. Keen to contribute in roles that blend innovation, technical 
 depth, and real-world impact`,
+  about: `A self-motivated, results-driven, and customer-focused Senior Software Engineer with over 10 years of experience in the 
+IT industry. Adept at full-stack development with deep expertise in system design, integration, and solving complex 
+business problems. Skilled in converting requirements into scalable technical solutions, with strong hands-on experience 
+in database architecture, enterprise systems, and cloud-based platforms. Known for clear communication, collaborative 
+leadership, and delivering high-impact solutions. Passionately interested in research and development, with a growing 
+focus on artificial intelligence and emerging technologies. Keen to contribute in roles that blend innovation, technical 
+depth, and real-world impact`,
 };
 
 // Enter your Social Media URLs here
 export const socialMediaUrl = {
+  linkdein: "https://www.linkedin.com/in/jaina-sanghvi/",
   linkdein: "https://www.linkedin.com/in/jaina-sanghvi/",
   github: "https://www.github.com/",
   twitter: "https://twitter.com/",
@@ -61,7 +69,11 @@ export const workDetails = [
     Position: "React Developer",
     Company: `TCS`,
     Location: "Gandhinagar",
+    Position: "React Developer",
+    Company: `TCS`,
+    Location: "Gandhinagar",
     Type: "Full Time",
+    Duration: "May 2022 - Present",
     Duration: "May 2022 - Present",
   },
   {
@@ -70,8 +82,18 @@ export const workDetails = [
     Location: "Rajkot",
     Type: "Full Time",
     Duration: "May 2016 - Feb 2022",
+    Position: "Senior Software Engineer",
+    Company: `Xtreme Technology`,
+    Location: "Rajkot",
+    Type: "Full Time",
+    Duration: "May 2016 - Feb 2022",
   },
   {
+    Position: "Software Engineer",
+    Company: `NxSol Private Limited`,
+    Location: "Rajkot",
+    Type: "Full Time",
+    Duration: "Nov 2013 - Apr 2015",
     Position: "Software Engineer",
     Company: `NxSol Private Limited`,
     Location: "Rajkot",
@@ -86,7 +108,11 @@ export const eduDetails = [
     Position: "Bachelor in Computer Engineering",
     Company: `Darshan University`,
     Location: "Rajkot",
+    Position: "Bachelor in Computer Engineering",
+    Company: `Darshan University`,
+    Location: "Rajkot",
     Type: "Full Time",
+    Duration: "May 2010 - Apr 2013",
     Duration: "May 2010 - Apr 2013",
   },
 ];
