@@ -25,7 +25,6 @@ import projectImage2 from "./assets/projects/project2.jpg";
 import projectImage3 from "./assets/projects/project3.jpg";
 import projectImage4 from "./assets/projects/project4.jpg";
 import projectImage5 from "./assets/projects/project5.jpg";
-import projectImage6 from "./assets/projects/project6.jpg";
 
 // Logos
 export const logos = {
@@ -36,7 +35,7 @@ export const logos = {
 // Enter your Personal Details here
 export const personalDetails = {
   name: "Jaina Sanghvi",
-  tagline: "I build things for web",
+  tagline: "I build things for web.",
   img: profile,
   about: `A self-motivated, results-driven, and customer-focused Senior Software Engineer with over 10 years of experience in the 
 IT industry. Adept at full-stack development with deep expertise in system design, integration, and solving complex 
@@ -182,15 +181,6 @@ project lorem ipsum generator for dummy content`,
     description: `This is sample project description random things are here in description This is sample
 project lorem ipsum generator for dummy content`,
     techstack: "Youtube REST API, React JS, HTML/CSS",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
-  },
-  {
-    title: "Project title 6",
-    image: projectImage6,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
     previewLink: "https://google.com",
     githubLink: "https://github.com",
   },
